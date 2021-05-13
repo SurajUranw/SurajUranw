@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning MEAN Stack.
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me ...
+- 📫 Reach me out: surajuranw@gmail.com  
 
 <!---
 SurajUranw/SurajUranw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
